@@ -1,0 +1,53 @@
+
+	int   : Number with out decimal values
+	long  :
+	float : 
+	double():
+	character
+
+	output function:
+	print : It is used to display statements and values.
+			Console
+			 or 
+			command line
+
+	input : It is a function which can display the statement and reads a string
+			
+
+		https://github.com/sssituser/sssitpythonmar2nd7pmbatch.git
+
+	
+
+
+
+
+
+		Python 
+
+	softwares 		web		mobile      DS  DA ML AI
+	---------------------------------------------------------------
+	GUI    or windows  or Desktop
+	CUI(Character User Interface) or Command Line  or  Console
+
+
+				Data Types
+
+			Text : String  : Anything written single quotes , double quotes or
+			triple quotes
+
+			Numeric Data types : int, float,complex
+
+			Sequential Data types : List,tuple ,set, range,frozenset
+			Mapping : Dictonayr
+			
+			
+
+	
+
+
+
+
+
+
+
+			
