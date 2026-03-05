@@ -1,0 +1,1 @@
+print("hi guys welcome to python online and offline training")
