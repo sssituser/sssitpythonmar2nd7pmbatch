@@ -1,0 +1,11 @@
+syx :
+  if con-1:
+    stmts-1
+  elif con-2:
+     stmts-2
+  elif con-3:
+      stmts-3
+    .......
+    ......
+  else:
+    stmts
