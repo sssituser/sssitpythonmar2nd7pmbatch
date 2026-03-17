@@ -1,0 +1,28 @@
+for element in sequentialdatatype or range:
+    stmts
+
+    or
+
+for var1 in var2:
+    stmts
+
+var1 is single variable which can hold one element
+var2 may be sequentil data type or range function
+var2 = [10,20,30,40]
+
+range() is a function in which we need provide paramters like
+starting value
+ending value
+step
+
+range(1,11,1)=>1,2,3,4,5,6,7,8,9
+range(2,22,2)=>2,4,6,8,10,12,14,16,18,20
+range(1,20,2)=>1,3,5,7,9,11,13,15,17,19
+range(1,20,3)=>1,4,7,10,13,16,19
+==================================
+range(10,1,-1) : 10,9,8,7,6,5,4,3,2
+range(20,0,-2) : 20,18,16,14,12,10,8,6,4,2
+range(-1,-6,-1) : -1,-2,-3,-4,-5
+range(-6,0,1)  : -6,-5,-4,-3,-2,-1
+
+
