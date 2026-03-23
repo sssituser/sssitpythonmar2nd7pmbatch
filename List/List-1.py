@@ -2,3 +2,4 @@ li = [10,20,30,10,6.7,10+9j,'abc',True,[90,10],(56,90),{"name":"abc","age":45},{
 print(li)
 li1 = [90,45,67,89]
 print(li1)
+print(li1*2)
