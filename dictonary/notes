@@ -1,0 +1,12 @@
+It is the combination of key and value pairs  
+separated with commas.
+It is written in curly braces is called as dictionary.
+We also use dict() function can be used to create dictionary.
+It is mutable.
+Insertion and deletion is possible in dictionary.
+It can hold heterogeneous elements.
+Indexing and slicing is not possible in dictionary.
+In order to accesses elements in dictionary, we keys to access the values of the dictionary.
+In dictionary 
+
+In the dict keys can't be duplicate, values can be duplicates.

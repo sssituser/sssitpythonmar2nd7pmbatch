@@ -1,0 +1,11 @@
+set sequential data type
+It is the collection heterogenious elements
+It can be curly({}) braces separed with coma
+set is mutable
+we can add the elements and delete the elements also
+Indexing and slicing can't done with set
+set will not allow duplicate values.
+set is unordered
+We can maths operations like union , Inetersection, difference
+frozenset is set which is declared with frozenset keyword ,
+frozenset is immutable.

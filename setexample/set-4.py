@@ -1,0 +1,5 @@
+set1 = frozenset([10,20,30,40,10])
+print(set1)
+a = frozenset([1,2,3])
+b = frozenset([10,20,39])
+print(a|b)
