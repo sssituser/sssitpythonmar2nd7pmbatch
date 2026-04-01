@@ -1,0 +1,9 @@
+tuple It is sequential data type
+It can be written () braces.
+It is the collection of heterogenious elements.
+It is immutable
+indexing is possible
+slicing possible
+packing
+unpacking
+mutliplcation of operator

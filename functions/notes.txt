@@ -1,0 +1,27 @@
+function : It is a self contained block of stmts
+which can be used to perform particular task is called a
+function.
+
+functions are of two types
+    1.Predefined functions:
+        The funtions which are present the lib are called predefined functions.
+        Example : print(),input(),type(),int() etc... 
+      
+        In order work with the string we use predefined functions of a string
+        class.
+        string : Anything written in single quotes or double quoates or triple quotes can be
+        called as string.
+
+        String is a class.
+    
+    2.User defined functions :
+        The fnctions which are defined by the user are called userdefined
+        functions.
+
+
+                    =========String =============
+                    "aaa"  
+                    "" -> Empty string
+                    string is immutable
+                    lower()
+                    upper()
