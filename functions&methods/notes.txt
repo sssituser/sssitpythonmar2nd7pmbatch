@@ -25,3 +25,21 @@ functions are of two types
                     string is immutable
                     lower()
                     upper()
+
+
+User Defined Method : The methods which are defined by the developer
+can called user defined method.
+
+In order to work with User defined methods we follow below steps
+1.Defined a method(function)
+    In order to define a method we need use def keyword.
+    def methodname(parameters):
+        stmts
+        return value
+
+If we define function inside the class can be called userdefined method
+if we define a function without class can be called a function.
+
+2.Consume the method (Calling the method)
+    methodname(paramers)
+

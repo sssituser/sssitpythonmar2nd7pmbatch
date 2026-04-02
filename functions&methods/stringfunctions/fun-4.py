@@ -14,3 +14,6 @@ print(s.index('a'))
 
 dob = "19-oct-1983"
 print(dob.split('-'))
+print(s.isalpha())
+x ="19"
+print(x.isnumeric(),x.isalpha())
