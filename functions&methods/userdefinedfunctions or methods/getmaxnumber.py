@@ -33,8 +33,7 @@ def getmaxdigitlist(li:list):
     for num in li:
         maxdigitlist.append(getmaxdigit(num))
     return maxdigitlist
-
-    
+   
 def sortlistindesc(li:list):
     li.sort()
     li.reverse()
