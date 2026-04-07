@@ -1,0 +1,29 @@
+function : It is set stmts or instructions which can be used perform a particular task.
+It is of two types.
+1.Predefined functions
+    The funtions which are present in the lib can be called Predefined functions
+        print
+        input
+        type
+        int()
+        float()
+        str() etc..
+2.User defined fnctions
+    The functions which are developed by the developer can be called user defined functions.
+    In order defind the function we need used def keyword with a name and ().
+Syntax to Create a function:
+    def functionname():  function definition.
+        stmts
+
+    functionname()    consuming the function.
+
+
+
+
+
+
+
+
+
+
+    
