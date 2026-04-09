@@ -1,0 +1,56 @@
+Python is an object oriented programming language.
+    since Python follows fours principles of oops
+    1.Encapsulation
+    2.Abstraction
+    3.Polymorhism
+    4.Inheritance
+Is it python 100% object oriented or not ?
+    It is not 100% object oriented since with out oops we can develop the applications in python.
+
+Encapsulation : Binding the Data types and methods(functions) into a single unit is called 
+Encapsulation.
+
+    Exmple : class 
+
+Polymorhism : An entity exhbiting different properties is called polymorhism.
+              It is of two types    
+              1. compile time polymorhism(Interpreter polymorhism) or early binding or static binding
+                    method overloading
+                    function overloading
+                    operator overloading are the examples.
+              2. Runtime Polymorhism or late binding or Dynamic binding
+                    Mehtod overriding example.
+
+Inheritance : Reusability of class is called Inheritance.
+                            or
+              Acquring properties from parent class to child class.
+                          or
+              Derving a subclass from super class is calle inheritance.
+
+              1. single Inheritance
+              2. Multi level inheritance
+              3. Multiple Inheritance
+              4. Hierachical Inheretance
+              5. Hybrid Inheretance
+Abstraction : Hiding unnesscary data and accessing nessacary data is called abstraction.
+
+class :         It is the blue print of the object.
+                                or
+                It is the collection of data types and methods.
+                note : In class we may have data type(s)
+                       In a class we may have only method(s)
+                       In a class we may have both
+                       class can't be empty
+Object :        It is the instance of a class.
+                In order to access non static members of a class.
+                for class we can multiple objects.
+
+
+class members :
+    Data types and methods  are class members.
+    These are of two types
+    1. static members
+        Static members of class can be accessed using className.
+
+    2.non static members
+        non static mebers of a class can be accessed uisng object.
