@@ -54,3 +54,28 @@ class members :
 
     2.non static members
         non static mebers of a class can be accessed uisng object.
+
+Encapsulation : Binding the data types and methods into single unit
+
+
+Constructor : It is special methods.
+It can be written __init__()
+It can be invoked when the object is created
+Constructor are of two types
+1.Default Constructor(Constructor Without Parameter)
+2.Constructor with Parameter
+3.In a class we can't take multiple Constructor.
+4.In order to contruct the object we Constructor
+                Inheritance
+Acquring Proprerties from a parent class to a child class   
+            or 
+Reusability of a class can be called Inheritance
+It is of defferent types
+1.single Inheritance
+    Derving a single child class from Single Base class.
+2.Multi level Inheritance
+3.Multiple Inheretance
+4.Hierarchical Inheretance
+5.Hybrid Inheritance
+
+
