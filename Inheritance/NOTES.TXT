@@ -1,0 +1,9 @@
+1.wHAT IS INHERITANCE 
+    1.SINGLE INHERITANCE
+    2.MULTI LEVEL INHERITANCE
+    3.Multiple INHERITANCE
+    4.Hierachical INHERITANCE
+    5.Hybrid inhieriance
+
+It is the combination of multilevel and multiple INHERITANCE is
+Hybrid Inheritace.

@@ -1,0 +1,27 @@
+An entity exhibitig different propeteries can be
+called as  Polymorphism
+It is of two types.
+
+1.Compile Time Polymorphism  (Ealry Bindign) or static binding
+    This polymorphism can be achieved during convertion of the application
+    1.Method Overloading
+        A method which performs different behaviours is mehod Overloading
+        print() -> Display int,float,string,boolean,list,set,tuple
+        len() -> lenght of string,no of elements present in the list set tuple
+    
+    2.Operator Overloading
+    Assigning a new property to the operator is called operator overloading.
+    In order to overload the operators we need their respective predfined method to overload.
+    +  __add__()
+    -  __sub__()
+    * __mul__()
+    / __div__()
+
+
+2.Run Time Polymorphism  (Latebinding) or dynamic binding
+    This polmporhim which can achieved During th exectuion of the application.
+    Example : Method overridng
+
+    Defining method with same name  and same parameters in the parent class and child class
+    calld as method Overring
+    
