@@ -57,7 +57,6 @@ function name : factorial
 # print(ispalindrome("eye"))
 # num = 153   1cube+5cube+3cube   153  Armstrong number
 # num = 1634  1pow4+6pow4+3pow4+4pow4  1634
-
 def isamrstrong(num:int):
     pow = len(str(num))
     sum = 0

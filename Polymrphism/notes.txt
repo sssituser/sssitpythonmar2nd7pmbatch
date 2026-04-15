@@ -19,9 +19,9 @@ It is of two types.
 
 
 2.Run Time Polymorphism  (Latebinding) or dynamic binding
-    This polmporhim which can achieved During th exectuion of the application.
+    This polmporhim which can achieved During the exectuion of the application.
     Example : Method overridng
 
-    Defining method with same name  and same parameters in the parent class and child class
-    calld as method Overring
+    Defining a method with same name  and same parameters in the parent class and child class
+    called as method Overring
     

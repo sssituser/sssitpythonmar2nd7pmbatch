@@ -1,0 +1,40 @@
+                                Error Handling
+1.Error :
+    It is a mistake in the program(Error). Error will not allow the application
+    to execute.
+
+    In order to avoid errors in the program we need error Handling.
+It is of two types
+1.CompileTime Errors
+    All syntax errors.
+    Solution : Provide proper syntax
+2.Runtime Errors
+    The Errors which can occuar during the execution of the application.
+    Runtime Erorrs also called as Exceptions.
+
+    Because of Runtime Errors Application will be terminated abnormally.
+
+    Exceptions can cause Abnormal termiatnion of the application.
+    What is an exception : It is a run time error which can cause  abnormal termination of
+    application.
+
+    Exceptions are predefined classes which are Inherited from Exception Parent
+
+    In order to avoid abnormal termiatnion of the application we use Exception Handling
+
+    In order handle the Exceptions we need use block
+    try
+    except
+    throw
+    finally
+    try : It is a block in which we write risky code where we expect an exeption,
+          try block will try execute the code, if it is not,It is raises exception objects
+          internally to the resepective except clause or finally clause.
+          try block can't be written alone, since we get syntax error
+          try block must be followed with except block or finally.
+    except : It is block which can catch the exception which are raised in the try block.
+    except block is of two types.
+    1.Individual except block:
+        It is block which can catch only particular exception.
+    2.common except block
+        It is block which can catch all the exceptoin which are rasied in the try block.    
