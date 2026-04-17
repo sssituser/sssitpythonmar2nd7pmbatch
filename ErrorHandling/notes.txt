@@ -26,15 +26,23 @@ It is of two types
     try
     except
     throw
+
+
     finally
     try : It is a block in which we write risky code where we expect an exeption,
           try block will try execute the code, if it is not,It is raises exception objects
           internally to the resepective except clause or finally clause.
           try block can't be written alone, since we get syntax error
-          try block must be followed with except block or finally.
+          try block must be followed with except block or finally block.
     except : It is block which can catch the exception which are raised in the try block.
     except block is of two types.
+
+
     1.Individual except block:
         It is block which can catch only particular exception.
     2.common except block
-        It is block which can catch all the exceptoin which are rasied in the try block.    
+        It is block which can catch all the exceptoins which are rasied in the try block.    
+
+    throw is a clause which can be thorw know exception object to suitable except block extenally.
+
+    
