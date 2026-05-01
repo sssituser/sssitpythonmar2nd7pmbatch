@@ -9,4 +9,18 @@ for i in range(len(list)):
             list[j] = temp
 print("Elements after sorting")
 print(list)
-            
+                        #Session starts soon
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
