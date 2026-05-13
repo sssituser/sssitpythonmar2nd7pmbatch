@@ -1,4 +1,4 @@
-import mysql.connector as mysql
+import mysql as mysql
 conn = mysql.connect(host='localhost',user='root',password='root',db='prodb')
 cursor = conn.cursor()
 def getall():
